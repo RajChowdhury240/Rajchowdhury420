@@ -6,10 +6,4 @@
 
 
 ![Raj's github stats](https://github-readme-stats.vercel.app/api?username=Rajchowdhury420&count_private=true&show_icons=true&theme=synthwave)
-
-<a href="https://github.com/muskanrani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajchowdhury420&layout=compact&theme=tokyonight" /></a>
-
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajchowdhury420&layout=compact)
+<a href="https://github.com/Rajchowdhury420"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajchowdhury420&layout=compact&theme=tokyonight" /></a>
