@@ -1,4 +1,7 @@
 ### Ola Amigo 👋
+![](https://komarev.com/ghpvc/?username=Rajchowdhury420&label=PROFILE+VIEWS)
+
+
 
 
 - 🔭 I’m currently working on CTFs
