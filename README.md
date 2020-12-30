@@ -13,4 +13,4 @@
 
 <a href="https://open.spotify.com/playlist/0lFirgZZ4kzcGJY8DpmPbf?si=3UZvEbEzRYuSD4wL0Dxhgg"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
 
-[![Spotify](https://novatorem.rajchowdhury420.vercel.app//api/spotify)](https://open.spotify.com/user/Raj)
+[![Spotify](https://novatorem.rajchowdhury420.vercel.app//api/spotify)](https://open.spotify.com/user/nenedo6969trydfada1qiw864?si=O5f_ESgWRdKZoLMgLy1zPQ)
