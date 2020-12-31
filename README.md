@@ -1,7 +1,7 @@
 # 👋 Hey Yanzee I love You ❤️
 ![](https://komarev.com/ghpvc/?username=Rajchowdhury420&label=PROFILE+VIEWS)
 
-[![Spotify](https://novatorem.rajchowdhury420.vercel.app//api/spotify)](https://open.spotify.com/user/nenedo6969trydfada1qiw864?si=O5f_ESgWRdKZoLMgLy1zPQ)
+[![Spotify](https://novatorem.rajchowdhury420.vercel.app//api/spotify)](https://open.spotify.com/user/nenedo6969trydfada1qiw864)
 
 
 - 🔭 I’m currently working on CTFs
