@@ -16,3 +16,4 @@
 <a href="https://open.spotify.com/playlist/0lFirgZZ4kzcGJY8DpmPbf?si=3UZvEbEzRYuSD4wL0Dxhgg"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
 
 
+<script src="https://tryhackme.com/badge/43358"></script>
