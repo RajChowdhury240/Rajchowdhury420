@@ -14,5 +14,3 @@
 
 
 <a href="https://open.spotify.com/playlist/0lFirgZZ4kzcGJY8DpmPbf?si=3UZvEbEzRYuSD4wL0Dxhgg"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
-
-[TryHackMe](https://tryhackme-badges.s3.amazonaws.com/rootraj.png)
