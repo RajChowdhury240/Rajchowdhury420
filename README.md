@@ -4,7 +4,7 @@
 [![Spotify](https://novatorem.rajchowdhury420.vercel.app//api/spotify)](https://open.spotify.com/user/nenedo6969trydfada1qiw864)
 
 
-![HackerOne](https://tech.eu/wp-content/uploads/2019/04/Hack-The-Box-logo.png)
+![HackTheBox](https://workablehr.s3.amazonaws.com/uploads/account/logo/417523/logo)
 
 - 🔭 I’m currently busy Playing CTFs (CTFTime, HackTheBox, TryHackMe, Pwnable.kr)
 - 🌱 I’m currently learning Penetration Testing & Preparing For OSCP !
