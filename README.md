@@ -1,10 +1,10 @@
 # 👋 Yanzee Sherpa ❤️
 ![](https://komarev.com/ghpvc/?username=Rajchowdhury420&label=PROFILE+VIEWS)
 
-[![Spotify](https://tech.eu/wp-content/uploads/2019/04/Hack-The-Box-logo.png)
+[![Spotify](https://novatorem.rajchowdhury420.vercel.app//api/spotify)](https://open.spotify.com/user/nenedo6969trydfada1qiw864)
 
 
-![HackerOne](https://aseantechsec.com/wp-content/uploads/2019/03/hackerone-logo835x396.png)
+![HackerOne](https://tech.eu/wp-content/uploads/2019/04/Hack-The-Box-logo.png)
 
 - 🔭 I’m currently busy Playing CTFs (CTFTime, HackTheBox, TryHackMe, Pwnable.kr)
 - 🌱 I’m currently learning Penetration Testing & Preparing For OSCP !
