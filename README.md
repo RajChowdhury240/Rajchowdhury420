@@ -1,7 +1,7 @@
 # 👋 Yanzee Sherpa ❤️
 ![](https://komarev.com/ghpvc/?username=Rajchowdhury420&label=PROFILE+VIEWS)
 
-[![Spotify](https://novatorem.rajchowdhury420.vercel.app//api/spotify)](https://open.spotify.com/user/nenedo6969trydfada1qiw864)
+[![Spotify](https://tech.eu/wp-content/uploads/2019/04/Hack-The-Box-logo.png)
 
 
 ![HackerOne](https://aseantechsec.com/wp-content/uploads/2019/03/hackerone-logo835x396.png)
