@@ -6,8 +6,8 @@
 
 ![HackTheBox](https://workablehr.s3.amazonaws.com/uploads/account/logo/417523/logo)
 
-- ### 🔭 I’m currently busy Playing CTFs (CTFTime, HackTheBox, TryHackMe, Pwnable.kr)
-- ### 🌱 I’m currently learning Penetration Testing & Preparing For OSCP !
+- #### 🔭 I’m currently busy Playing CTFs (CTFTime, HackTheBox, TryHackMe, Pwnable.kr)
+- #### 🌱 I’m currently learning Penetration Testing & Preparing For OSCP !
 
 
 ![Raj's github stats](https://github-readme-stats.vercel.app/api?username=Rajchowdhury420&count_private=true&show_icons=true&theme=radical)<a href="https://github.com/Rajchowdhury420">
