@@ -6,6 +6,7 @@
 
 -  🔭 I’m currently busy Playing CTFs (CTFTime, HackTheBox, TryHackMe, Pwnable.kr)
 -  🌱 I’m currently learning Penetration Testing & Preparing For OSCP !
+-  Computer Science Engineering Student
 
 
  #### GitHub Stats:
