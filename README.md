@@ -8,13 +8,12 @@
 -  🌱 I’m currently learning Penetration Testing & Preparing For OSCP !
 -  🎓 Computer Science Engineering Student
 
-
- #### GitHub Stats:
  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajchowdhury420">
-<p/>
+<h2>🔥 Streak Stats</h2>
 
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Rajchowdhury420&theme=dracula" alt="Rajchowdhury420" />
+</p>
 
 ![Raj's github stats](https://github-readme-stats.vercel.app/api?username=Rajchowdhury420&count_private=true&show_icons=true&theme=radical)<a href="https://github.com/Rajchowdhury420">
  
