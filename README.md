@@ -8,6 +8,7 @@
 -  🌱 I’m currently learning Penetration Testing & Preparing For OSCP !
 -  🎓 Computer Science Engineering Student
 
+ ![](gef.png)
  
 <h2>🔥 Streak Stats</h2>
 
