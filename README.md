@@ -8,6 +8,6 @@
 -  🌱 I’m currently learning Penetration Testing & Preparing For OSCP !
 -  🎓 Computer Science Engineering Student
 
- ![](gef.png)
+ ![](pwn.png)
  
 
