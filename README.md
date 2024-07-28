@@ -14,7 +14,7 @@
 ![Terraform Badge](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
+![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 <img width="1749" alt="image" src="https://github.com/Rajchowdhury420/Rajchowdhury420/assets/30806882/66c0fd47-56d6-419b-bd50-ec47bfb065a3">
 
