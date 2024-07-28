@@ -16,6 +16,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff)
 ![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff)
+![Apple Badge](https://img.shields.io/badge/Apple-000?logo=apple&logoColor=fff)
 <img width="1749" alt="image" src="https://github.com/Rajchowdhury420/Rajchowdhury420/assets/30806882/66c0fd47-56d6-419b-bd50-ec47bfb065a3">
 
   
