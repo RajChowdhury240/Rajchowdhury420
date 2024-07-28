@@ -10,7 +10,8 @@
 -  🌱 Red Teaming & CTFs in free time
   
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=fff)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Terraform Badge](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
