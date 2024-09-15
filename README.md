@@ -6,7 +6,7 @@
 
 <!-- … [![Spotify](https://novatorem.rajchowdhury420.vercel.app//api/spotify)](https://open.spotify.com/user/nenedo6969trydfada1qiw864) -->
 
--  🔭 Senior Cloud IAM Engineer
+-  🔭 Cloud Engineer
 -  🌱 Red Teaming & CTFs in free time
   
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=fff)
